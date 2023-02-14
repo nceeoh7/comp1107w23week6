@@ -9,6 +9,7 @@
                 "-g",
                 "${file}",
                 "${workspaceFolder}/helpers.c",
+                "${workspaceFolder}/encode.c",
                 "-o",
                 "${fileDirname}/${fileBasenameNoExtension}",
                 
